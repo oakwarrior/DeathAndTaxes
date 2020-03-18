@@ -11,7 +11,7 @@ I used Visual Studio 2017 Community Edition to code the game but I think any Uni
 
 
 
-Open Letter to.. whoever wants to read my inane rambling, I guess?
+[Open Letter to.. whoever wants to read my inane rambling, I guess?]
 
 Hi everyone. I'm Oak, and I did the coding for Death and Taxes, a game that released about a month ago. It was developed over the years by various people, but a final team of 10 people got the game out of the gate on 20th of February this year (2020, in case you have trouble remembering which year is it, like I do).
 
