@@ -1,4 +1,18 @@
 # DeathAndTaxes
+
+How to get this up and running
+
+1. Clone
+2. [OPTIONAL] Get Unity 2019.2.10f1 or above
+3. [OPTIONAL] Add/Open the project in Unity
+4. Et voilà!
+
+I used Visual Studio 2017 Community Edition to code the game but I think any Unity-compatible IDE (or any IDE in general) should be able to generate the solution files and such.
+
+
+
+Open Letter to.. whoever wants to read my inane rambling, I guess?
+
 Hi everyone. I'm Oak, and I did the coding for Death and Taxes, a game that released about a month ago. It was developed over the years by various people, but a final team of 10 people got the game out of the gate on 20th of February this year (2020, in case you have trouble remembering which year is it, like I do).
 
 Early on, when I joined the team, I had two wishes for the game.
